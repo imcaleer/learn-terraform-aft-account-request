@@ -3,11 +3,11 @@ module "sandbox" {
 
   control_tower_parameters = {
     AccountEmail              = "ctsandbox@outlook.com"
-    AccountName               = "sandbox-aft"
+    AccountName               = "mysandbox"
     ManagedOrganizationalUnit = "Sandbox (ou-doh2-kyck2cag)"
     SSOUserEmail              = "ctsandbox@outlook.com"
-    SSOUserFirstName          = "Ian"
-    SSOUserLastName           = "McAleer"
+    SSOUserFirstName          = "Nathan"
+    SSOUserLastName           = "Crypto"
   }
 
   account_tags = {

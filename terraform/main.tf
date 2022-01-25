@@ -24,5 +24,4 @@ module "sandbox" {
   }
 
   account_customizations_name = "sandbox"
-  terraform_distribution      = "oss"
 }
